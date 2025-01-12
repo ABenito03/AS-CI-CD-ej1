@@ -5,7 +5,7 @@ class Wallet:
     def set_balance(self, val):
         self.balance = self.balance + val
 
-    def get_balance(self):
+    def et_balance(self):
         return self.balance
 
     def remove_balance(self, val):
